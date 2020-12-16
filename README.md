@@ -6,7 +6,7 @@ To work administrator permissions and mysql root password required.
 ```sh
 $ sudo su
 $ git clone https://github.com/mehmetdilekci0/homedir-and-mysql-backup-tool.git
-$ cd homedir-and-mysql-backupper/
+$ cd homedir-and-mysql-backup-tool/
 $ chmod +x backupper.sh
 $ sh backupper.sh or ./backupper.sh
 ```
