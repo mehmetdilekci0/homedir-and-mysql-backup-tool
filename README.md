@@ -1,4 +1,4 @@
-# Linux Home Directory and Mysql Database Backup Tool (Bash script)
+# Linux Home Directory & Mysql Database Backup Tool (Bash script)
 
 ### Installation
 To work administrator permissions and mysql root password required.
